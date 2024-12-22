@@ -11,8 +11,13 @@ This program scrapes the latest headlines from major German newspapers. It compa
 ## The app in action 📸
 
 ![Overview page](other/news-entries.png)  
-*Description of Overview page*
+*The start page of the app*
 
 ![Data Analysis](other/data-analysis-chart.png)  
-*Description of Data Analysis*
+*One of the graphical charts to understand the scraped data better*
 
+![Sentiment Analysis](other/sentiment-analysis.png)  
+*Example of the LLM-powered sentiment analysis*
+
+![Political Analysis](other/political-tendency.png)  
+*Example of the LLM-powered political tendency analysis including reasoning*
